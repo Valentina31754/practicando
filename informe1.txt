@@ -1,0 +1,3 @@
+Hoy utilizaremos Git hub que es un repositorio remoto
+
+agregaremos un repositorio realizado en git
